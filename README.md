@@ -1,5 +1,5 @@
-# DWT2D_code
-DWT2D_code
+# DWT2D_readme
+DWT2D_readme
 Read me before install and application:
 
 Algorithm application platform
